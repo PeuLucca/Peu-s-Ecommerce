@@ -1,0 +1,45 @@
+body{
+    background-color: #ECEDEF;
+}
+
+table{
+    margin: auto;
+}
+
+thead{
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+}
+
+td{
+    border: 1px solid black;
+    text-align: left;
+}
+
+tr{
+    border: 1px solid black;
+}
+
+.preco h4{
+    margin-top: 15px;
+}
+
+.nome h4{
+    margin-top: 21px;
+    margin-left: 10px;
+}
+
+.success{
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+}
+
+.success h2{
+    margin-top: 20px;
+}
+
+#buscar{
+    background-color: #ECEDEF;
+}
